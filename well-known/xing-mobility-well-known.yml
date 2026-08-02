@@ -1,0 +1,23 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of https://www.xingmobility.com
+host: https://www.xingmobility.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+notes: >-
+  No well-known discovery documents are published. robots.txt carries
+  Content-Signal directives (search/ai-input/ai-train) and disallows a
+  number of AI crawlers (Amazonbot, Applebot-Extended, Bytespider, CCBot,
+  ClaudeBot, ...). The apex host xingmobility.com returns Cloudflare 526
+  (invalid origin certificate); the canonical host is www.xingmobility.com.

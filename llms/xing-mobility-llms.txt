@@ -1,0 +1,25 @@
+# XING Mobility
+
+> XING Mobility (行競科技) is a Taiwan-based battery technology company that builds
+> immersion-cooled lithium battery systems under the IMMERSIO brand — cell-to-pack
+> (CTP) packs, battery backup units (BBU) for AI data centers, and the XBE series
+> for stationary and mobile energy storage — serving electric mobility, ESS,
+> marine, and data-center markets. XING Mobility publishes no public developer
+> API, developer portal, or API documentation as of 2026-07-21.
+
+## Company
+
+- [Website](https://www.xingmobility.com/en): Company site (English)
+- [IMMERSIO CTP](https://www.xingmobility.com/en/ctp): Immersion-cooled cell-to-pack battery platform
+- [IMMERSIO BBU](https://www.xingmobility.com/en/bbu): Battery backup unit for AI data centers
+- [IMMERSIO XBE](https://www.xingmobility.com/en/xbe): Automotive-grade energy storage series
+- [Contact](https://www.xingmobility.com/en/contact): Contact form, Taoyuan City, Taiwan HQ
+- [GitHub](https://github.com/XING-Mobility): GitHub organization (no public repositories)
+- [LinkedIn](https://tw.linkedin.com/company/xing-mobility)
+- [YouTube](https://www.youtube.com/@XINGMobility)
+
+## Catalog
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/xing-mobility/refs/heads/main/apis.yml): API Evangelist network profile
+- [Domain security](https://raw.githubusercontent.com/api-evangelist/xing-mobility/refs/heads/main/security/xing-mobility-domain-security.yml): Probed TLS/DNS posture
+- [Well-known probe](https://raw.githubusercontent.com/api-evangelist/xing-mobility/refs/heads/main/well-known/xing-mobility-well-known.yml): /.well-known discovery surface (none published)
