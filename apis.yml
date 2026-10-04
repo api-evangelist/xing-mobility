@@ -47,7 +47,7 @@ tags:
 - Energy Storage
 - Immersion Cooling
 - Electric Vehicles
-- Data-Center
+- Data Center
 - Manufacturing
 - Taiwan
 tags_raw:
@@ -59,6 +59,7 @@ tags_raw:
 - Data Centers
 - Manufacturing
 - Taiwan
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
